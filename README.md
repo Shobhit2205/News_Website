@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start` to download dependecies
+### `npm install` to download dependecies
 
 ### `npm start`
 
