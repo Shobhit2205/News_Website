@@ -1,0 +1,71 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": {
+        "id": "news24",
+        "name": "News24"
+      },
+      "author": "Khanyiso Tshwaku",
+      "title": "CSA boss Nkwe says T20 World Cup review took place, informed 2023 changes: We played too much cricket",
+      "description": "Cricket South Africa's director of cricket, Enoch Nkwe, said they did undertake a review of last year's failed T20 World Cup, and it played a huge role in how they improved in the recently concluded Cricket World Cup.",
+      "url": "https://www.news24.com/sport/cricket/proteas/csa-boss-nkwe-says-t20-world-cup-review-took-place-informed-2023-changes-we-played-too-much-cricket-20231128",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/8639/b711a4e5f1c04b72b44174e3ab46e31c.jpg",
+      "publishedAt": "2023-11-28T05:00:55",
+      "content": "Cricket South Africa's director of cricket Enoch Nkwe said they did not one, but two reviews last season to look after the national team and the domestic system last season, with the former one ident… [+458 chars]"
+    },
+    {
+      "source": {
+        "id": "news24",
+        "name": "News24"
+      },
+      "author": "Adriaan Basson",
+      "title": "Adriaan Basson | It's just not cricket: More reasonability and less shouting, please",
+      "description": "In the noise of all the shouting about the young cricketer David Teeger's ill-advised statements about Israel, the reasonable middle is drowned out, writes Adriaan Basson.",
+      "url": "https://www.news24.com/news24/opinions/columnists/adriaanbasson/adriaan-basson-its-just-not-cricket-more-reasonability-and-less-shouting-please-20231128-3",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9670/b480bcca5ffa4e358d050410993797d9.jpg",
+      "publishedAt": "2023-11-28T05:00:31",
+      "content": "In the noise of all the shouting about the young cricketer David Teeger's ill-advised statements about Israel, the reasonable middle is drowned out, writes Adriaan Basson. The News24 comments sectio… [+375 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": null,
+      "title": "Brook and Sciver-Brunt claim top Cricket Writers' Club awards",
+      "description": "England batter Harry Brook claims the top prize at the 2023 Cricket Writers' Club awards.",
+      "url": "http://www.bbc.co.uk/sport/cricket/67542418",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/6E84/production/_131829282_gettyimages-1733562709.jpg",
+      "publishedAt": "2023-11-27T16:22:20.5630818Z",
+      "content": "This year England batter Harry Brook became the fastest to player to reach 1,000 career Test runs, in terms of balls faced England's Harry Brook has been awarded the Bob Willis Trophy at the 2023 Cr… [+3575 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
